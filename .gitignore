@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+01_*
+02_*
+lab1/*
+!lab1/churnpred_gambling.pdf
